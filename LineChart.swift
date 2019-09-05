@@ -3,7 +3,7 @@
 //  SSA
 //
 //  Created by Rajesh Subramonian on 11/04/19.
-//  Copyright © 2019 MPHASIS. All rights reserved.
+//  Copyright © 2019. All rights reserved.
 //
 
 import UIKit
